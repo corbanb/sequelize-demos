@@ -1,0 +1,19 @@
+{
+  "name": "sequelize-demos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "debug": "nodemon -w index.js --debug"
+  },
+  "author": "Corban Baxter <corbanb@gmail.com> (http://barbershop.io)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "pg": "^4.4.3",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^3.14.1"
+  }
+}
