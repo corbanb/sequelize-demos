@@ -9,6 +9,6 @@
   "repository": "https://github.com/corbanb/sequelize-demos",
   "success_url": "/welcome",
   "addons": [
-    "postgres"
+    "heroku-postgresql"
   ]
 }
